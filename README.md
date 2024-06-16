@@ -1,2 +1,2 @@
 # ad-repo
-Author-Adarsha Pantha
+Author-Pantha Adarsha
